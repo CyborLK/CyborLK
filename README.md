@@ -1,4 +1,4 @@
-![MasterHead](https://tenor.com/view/gif-wallpaper-gif-3536921)
+![MasterHead](https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif)
 
 <h1 align="center">Hi 👋, I'm Nadun Daluwatta (CyboR)</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX designer from Sri Lanka</h3>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [CareerPulse](https://github.com/CyborLK/Project-CareerPulse)
 - 🌱 I’m currently learning **Figma/React/Flutter**
-- 👨‍💻 All of my projects are available at [nadundaluwatta.me](nadundaluwatta.me)
+- 👨‍💻 All of my projects are available at [nadundaluwatta.me](https://nadundaluwatta.me)
 - 📝 I regularly write articles on [https://yakalikes.blogspot.com/](https://yakalikes.blogspot.com/)
 - 💬 Ask me about **Python/Java**
 - 📫 How to reach me **nadundalu@gmail.com**
@@ -54,4 +54,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyborlk&" alt="cyborlk" /></p>
 
-![Coding GIF](
+![Coding GIF](https://tenor.com/view/gif-wallpaper-gif-3536921)
