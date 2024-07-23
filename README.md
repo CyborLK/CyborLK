@@ -1,4 +1,4 @@
-![Future GIF](https://media1.tenor.com/images/6sjd441LIRIAAAAd/future.gif)
+![MasterHead](https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif)
 
 <h1 align="center">Hi 👋, I'm Nadun Daluwatta (CyboR)</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX designer from Sri Lanka</h3>
