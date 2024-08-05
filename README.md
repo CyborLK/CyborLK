@@ -1,4 +1,4 @@
-<img src="banner.gif" alt="MasterHead" width="100%" height="100px" />
+<img src="[banner.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw2uHRJuPZNXRiHJzKxD9JZY&ust=1722958087959000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjF0ZWV3ocDFQAAAAAdAAAAABAK)" alt="MasterHead" width="100%" height="100px" />
 
 <h1 align="center">Hi 👋, I'm Nadun Daluwatta (CyboR)</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX designer from Sri Lanka</h3>
