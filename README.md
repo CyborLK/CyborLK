@@ -1,4 +1,4 @@
-![MasterHead](banner.gif)
+<img src="banner.gif" alt="MasterHead" width="100%" height="auto" />
 
 <h1 align="center">Hi 👋, I'm Nadun Daluwatta (CyboR)</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX designer from Sri Lanka</h3>
