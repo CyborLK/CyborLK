@@ -1,13 +1,34 @@
 # Hi there, I'm Nadun Daluwatta (CyboR) 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=cyborlk&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+and+Welcome!+🌟;UI/UX+Designer+with+a+creative+eye,;Passionate+Front-End+Developer,;Mobile+App+Development+Enthusiast,;Graphic+Designer+Crafting+Visual+Stories,;Always+learning+and+improving,;Let's+build+amazing+experiences+together!"></a>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/cyborlk?style=social)](https://github.com/cyborlk)
+
+
+
+<!--profile visit count-->
+<div>
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+[![GitHub followers](https://img.shields.io/github/followers/cyborlk?style=social)](https://github.com/cyborlk) <br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/nadun_daluwatta?style=social)](https://twitter.com/nadun_daluwatta)
+
 
 ## 👨‍💻 About Me
 
 I'm a passionate Frontend Developer and UI/UX designer from Sri Lanka, constantly exploring new technologies and pushing the boundaries of web development.
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+<br>
+<br>
 
 - 🔭 I'm currently working on [CareerPulse](https://github.com/CyborLK/Project-CareerPulse)
 - 🌱 I'm learning **Figma**, **React**, and **Flutter**
@@ -17,35 +38,50 @@ I'm a passionate Frontend Developer and UI/UX designer from Sri Lanka, constantl
 - 📫 Reach me at: **nadundalu@gmail.com**
 - ⚡ Fun fact: The Internet carries over 4.66 billion web pages!
 
+<br>
+<br>
+
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cyborlk&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<!-- Add more icons for other languages and tools you use -->
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,express,figma,firebase,github,html,java,js,md,mongodb,mysql,nextjs,nodejs,py,react,tailwind,vscode&perline=10" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyborlk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyborlk&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+<td width="50%" align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyborlk&theme=radical" alt="GitHub Streak" />
-</p>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<br>
 
 ## 🌟 Featured Projects
 
