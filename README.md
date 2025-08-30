@@ -112,7 +112,3 @@ I'm a passionate Frontend Developer and UI/UX designer from Sri Lanka, constantl
 </p>
 
 ---
-
-<p align="center">
-  ![snake animation](https://github.com/<seu CyborLK>/<seu CyborLK>/blob/output/github-contribution-grid-snake2.svg)
-</p>
