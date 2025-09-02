@@ -90,6 +90,12 @@ I'm a passionate Frontend Developer and UI/UX designer from Sri Lanka, constantl
 
 <br>
 
+| ![Dilshi's github stats](https://github-readme-stats.vercel.app/api?username=dilshi126&show_icons=true&theme=tokyonight) | ![Dilshi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilshi126&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshi126&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dilshi126&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+<br>
+
 ## 🌟 Featured Projects
 
 [![CareerPulse](https://github-readme-stats.vercel.app/api/pin/?username=cyborlk&repo=CareerPulse-Mobile-App&theme=radical)](https://github.com/CyborLK/CareerPulse-Mobile-App)
