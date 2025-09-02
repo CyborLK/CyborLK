@@ -33,6 +33,7 @@ I'm a passionate Frontend Developer and UI/UX designer from Sri Lanka, constantl
 </a>
 
 <br>
+
 <br>
 
 - 🔭 I'm currently working on [CareerPulse](https://github.com/CyborLK/Project-CareerPulse)
@@ -44,6 +45,17 @@ I'm a passionate Frontend Developer and UI/UX designer from Sri Lanka, constantl
 - ⚡ Fun fact: The Internet carries over 4.66 billion web pages!
 
 <br>
+
+## 🤝 Connect with me
+
+<p align="left">
+<a href="https://twitter.com/nadun_daluwatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nadun daluwatta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nadun-daluwatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadun daluwatta" height="30" width="40" /></a>
+<a href="https://fb.com/nadun.daluwatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadun daluwatta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nadundaluwatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nadun daluwatta" height="30" width="40" /></a>
+<a href="https://discord.gg/CyborLK#0393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CyborLK#0393" height="30" width="40" /></a>
+</p>
+
 <br>
 
 ## 🏆 GitHub Trophies
@@ -90,14 +102,6 @@ I'm a passionate Frontend Developer and UI/UX designer from Sri Lanka, constantl
 <!-- This section can be automatically updated using GitHub Actions -->
 <!-- BLOG-POST-LIST:END -->
 
-## 🤝 Connect with me
 
-<p align="left">
-<a href="https://twitter.com/nadun_daluwatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nadun daluwatta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nadun-daluwatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadun daluwatta" height="30" width="40" /></a>
-<a href="https://fb.com/nadun.daluwatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadun daluwatta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nadundaluwatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nadun daluwatta" height="30" width="40" /></a>
-<a href="https://discord.gg/CyborLK#0393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CyborLK#0393" height="30" width="40" /></a>
-</p>
 
 ---
