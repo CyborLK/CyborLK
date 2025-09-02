@@ -1,4 +1,4 @@
-# Hi there, I'm Nadun Daluwatta (CyboR) 👋
+# Hi there, I'm Nadun Daluwatta 👋
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -51,7 +51,7 @@ I'm a passionate Frontend Developer and UI/UX designer from Sri Lanka, constantl
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=CyborLK&theme=algolia&title=Followers,Stars,Commit,Issues,Repositories,PullRequest&row=1&column=6&margin-h=15&margin-w=5" alt="TROPHY" />
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=NadunDalu&theme=algolia&title=Followers,Stars,Commit,Issues,Repositories,PullRequest&row=1&column=6&margin-h=15&margin-w=5" alt="TROPHY" />
   </a>
 </div>
 <!--- trophy (end) -->
@@ -68,31 +68,11 @@ I'm a passionate Frontend Developer and UI/UX designer from Sri Lanka, constantl
 
 ## 📊 GitHub Stats
 
-<!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CyborLK&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Your Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=CyborLK&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyborLK&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
 <br>
 
-| ![Dilshi's github stats](https://github-readme-stats.vercel.app/api?username=dilshi126&show_icons=true&theme=tokyonight) | ![Dilshi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dilshi126&theme=tokyonight) |
+| ![Nadun's github stats](https://github-readme-stats.vercel.app/api?username=NadunDalu&show_icons=true&theme=tokyonight) | ![Nadun GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NadunDalu&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshi126&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dilshi126&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadunDalu&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=NadunDalu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <br>
 
