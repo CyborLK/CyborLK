@@ -1,8 +1,11 @@
 # Hi there, I'm Nadun Daluwatta (CyboR) 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+and+Welcome!+🌟;UI/UX+Designer+with+a+creative+eye,;Passionate+Front-End+Developer,;Mobile+App+Development+Enthusiast,;Graphic+Designer+Crafting+Visual+Stories,;Always+learning+and+improving,;Let's+build+amazing+experiences+together!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Undergraduate+at+University+of+Sri+Jayewardenepura;Passionate+about+Computer+Networking;Exploring+Routing,+Switching+and+Security;Always+learning+and+improving;Let's+connect+and+build+networks+together!">
+  </a>
 </p>
+
 
 
 
